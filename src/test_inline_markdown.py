@@ -1,6 +1,5 @@
 import unittest
 from inline_markdown import (
-    markdown_to_blocks,
     split_nodes_delimiter,
     split_nodes_image,
     split_nodes_link,
@@ -191,6 +190,7 @@ class TestInlineMarkdown(unittest.TestCase):
             ],
             nodes,
         )
+
 
 if __name__ == "__main__":
     unittest.main()

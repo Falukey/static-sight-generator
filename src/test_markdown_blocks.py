@@ -1,6 +1,5 @@
 import unittest
-from markdown_blocks import ( 
-    extract_title,
+from markdown_blocks import (
     markdown_to_html_node,
     markdown_to_blocks,
     block_to_block_type,
@@ -171,6 +170,6 @@ this is paragraph text
             "<div><pre><code>This is a code block\n</code></pre><p>this is paragraph text</p></div>",
         )
 
-    
+
 if __name__ == "__main__":
     unittest.main()

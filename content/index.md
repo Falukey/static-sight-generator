@@ -1,8 +1,7 @@
 # Tolkien Fan Club
 
-**I like Tolkien**. Read my [first post here](/majesty) (sorry the link doesn't work yet)
-
-> All that is gold does not glitter
+**I like Tolkien**. Read my [first post here](/majesty)
+<blockquote>All that is gold does not glitter</blockquote>
 
 ## Reasons I like Tolkien
 
